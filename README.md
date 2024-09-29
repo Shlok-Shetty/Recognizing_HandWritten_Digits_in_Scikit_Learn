@@ -19,7 +19,7 @@ This project implements a machine learning model to recognize handwritten digits
 
 ## Results
 
-The trained model achieves an accuracy of over 95% on the test dataset, demonstrating its effectiveness in recognizing handwritten digits.
+The trained model achieves an accuracy of over 91% on the test dataset, demonstrating its effectiveness in recognizing handwritten digits.
 
 ## How to Run
 
